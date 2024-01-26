@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Çağrı ÇİMENCİ.  I am a Project Manager.</p>
+<p align="left">My name is Çağrı ÇİMENCİ. 💻 /p>
 
 ###
 
